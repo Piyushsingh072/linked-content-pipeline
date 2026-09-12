@@ -1,6 +1,6 @@
 # Daily LinkedIn Posts Pipeline
 
-> Complete automation system for generating, building, and scheduling LinkedIn content for Founders Wing: 16 posts per day (4 Reddit-based + 7 AI news + 5 report-driven performance posts) with carousel PDFs, infographic PNGs, and Slack delivery.
+> Complete automation system for generating, building, and scheduling LinkedIn content for Client: 16 posts per day (4 Reddit-based + 7 AI news + 5 report-driven performance posts) with carousel PDFs, infographic PNGs, and Slack delivery.
 
 > **Content positioning — the "Varun Mayya of LinkedIn."** As of 2026-06-14, every stream is governed by [`content-doctrine.md`](content-doctrine.md): we write for ambitious generalists who want to know where AI is going and how to get ahead, framed around AI's impact on work, income, skills, and the future. Technical tutorials, indie-hacker tactics, and tool how-tos are out (they underperform); future-of-work, opportunity, and accessible explainers are in. FounderWing stays the brand. The doctrine overrides older topic guidance in any skill file.
 
